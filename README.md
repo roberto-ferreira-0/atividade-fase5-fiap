@@ -15,7 +15,7 @@ Para maiores informações, segue o link do notebook:
 
 ## Link do vídeo da entrega 1
 Aqui, o link para o vídeo desta entrega:
-https://youtu.be/GLxti6zcO2s
+https://youtu.be/GLxti6zcO2s  
 
 
 # Fase 5 - Atividade de Machine Learning - Entrega 2
