@@ -10,3 +10,5 @@ A primeira atividade explora o dataset "Crop_Yield", buscando prever a produçã
 - Construção de modelos de Machine Learning de regressão (RandomForest, Linear, Ridge, Gradient Boosting e Decision Tree)
 
 ## Notebook
+Para maiores informações, segue o link do notebook:
+[RobertoFerreira_rm561131_pbl_fase5.ipynb](./RobertoFerreira_rm561131_pbl_fase5.ipynb)
