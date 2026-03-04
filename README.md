@@ -11,7 +11,7 @@ A primeira atividade explora o dataset "Crop_Yield", buscando prever a produçã
 
 ## Notebook
 Para maiores informações, segue o link do notebook:
-[RobertoFerreira_rm561131_pbl_fase5.ipynb](./notebook/RobertoFerreira_rm561131_pbl_fase5.ipynb)
+[RobertoFerreira_rm561131_pbl_fase5.ipynb](./Notebook/RobertoFerreira_rm561131_pbl_fase5.ipynb)
 
 
 # Fase 5 - Atividade de Machine Learning - Entrega 2
