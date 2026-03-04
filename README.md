@@ -13,6 +13,10 @@ A primeira atividade explora o dataset "Crop_Yield", buscando prever a produçã
 Para maiores informações, segue o link do notebook:
 [RobertoFerreira_rm561131_pbl_fase5.ipynb](./Notebook/RobertoFerreira_rm561131_pbl_fase5.ipynb)
 
+## Link do vídeo da entrega 1
+Aqui, o link para o vídeo desta entrega:
+https://youtu.be/GLxti6zcO2s
+
 
 # Fase 5 - Atividade de Machine Learning - Entrega 2
 
@@ -24,6 +28,10 @@ O serviço escolhido foi o EC2 T4g, graças ao seu baixo custo e alta flexibilid
 
 ## Cenário de restrições legais
 Em um cenário de restrições legais de armazenamento, o servidor sa-east-1 desponta como uma escolha interessante. Sua localização garante um armazenamento seguro dos dados, além de baixa latência de processamento. 
+
+## Link do vídeo da entrega 2
+Aqui, o link do vídeo da entrega 2:
+https://youtu.be/G6qgzZrh-30
 
 ## Imagens da calculadora AWS
 Seguem imagens referentes a escolha pela T4g e aos preços dos serviços, onde vemos que os preços do servidor estadunidense são inferiores ao preço do servidor local.
