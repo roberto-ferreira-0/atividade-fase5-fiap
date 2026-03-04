@@ -14,7 +14,6 @@ Para maiores informações, segue o link do notebook:
 [RobertoFerreira_rm561131_pbl_fase5.ipynb](./notebook/RobertoFerreira_rm561131_pbl_fase5.ipynb)
 
 
-
 # Fase 5 - Atividade de Machine Learning - Entrega 2
 
 ## Propósito
