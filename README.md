@@ -14,10 +14,20 @@ Para maiores informações, segue o link do notebook:
 [RobertoFerreira_rm561131_pbl_fase5.ipynb](./RobertoFerreira_rm561131_pbl_fase5.ipynb)
 
 
+
 # Fase 5 - Atividade de Machine Learning - Entrega 2
 
 ## Propósito
 A segunda atividade consiste na simulação do uso da estrutura da AWS, com armazenamento de dados nos servidores us-east-1 (Virgínia do Norte) e sa-east-1 (São Paulo)
 
 ## Explicações
-O serviço escolhido foi o EC2, graças ao seu baixo custo e alta flexibilidade de instancias. O armazenamento em HDD Cold segue a linha de redução de custos e desempenho favorável. 
+O serviço escolhido foi o EC2 T4g, graças ao seu baixo custo e alta flexibilidade de instancias. O armazenamento em HDD Cold segue a linha de redução de custos e desempenho favorável. 
+
+## Cenário de restrições legais
+Em um cenário de restrições legais de armazenamento, o servidor sa-east-1 desponta como uma escolha interessante. Sua localização garante um armazenamento seguro dos dados, além de baixa latência de processamento. 
+
+## Imagens da calculadora AWS
+Seguem imagens referentes a escolha pela T4g e aos preços dos serviços, onde vemos que os preços do servidor estadunidense são inferiores ao preço do servidor local.
+
+![Instância T4g](./imagens/img_tg4.png)
+![Estimativa de Preços](./imagens/img_precos.png)
